@@ -19,19 +19,20 @@ nav {
     position: fixed;
     color: #777777;
     font-size: 20px;
-    right: 275px;
+    right: 260px;
     top: 29px;
 }
-ul {
-    
-    
-}
+
 li {
 display: inline-block;
-content: '|';
+
 padding: 0%;
+margin: .5em;
+}
 
-
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #777777;
 }
 
 #header-title {

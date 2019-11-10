@@ -1,0 +1,50 @@
+body {
+    background-image: url('../images/floor-tile.png');
+    margin: 0px;
+    padding: 0px;
+
+}
+.container {
+   top:0;
+  position: relative;
+    
+}
+header {
+    background: #fff;
+    top: 0;
+    
+}
+nav {
+    position: fixed;
+    color: #777777;
+    font-size: 20px;
+    right: 275px;
+    top: 30px;
+}
+li {
+display: inline;
+}
+
+#header-title {
+    background: #4aaaa5;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    width: 175px;  
+    position: relative;
+    left: 200px;
+    bottom: 0px;
+}
+.main-body {
+    width: 960px;
+    background: #fff;
+    margin: 20px 15%;
+    padding: 2%;
+    border: 2px solid #fff;
+}
+p {
+    color: #777777;
+}
+.content-header {
+    color: #4aaaa5;
+}

@@ -1,5 +1,6 @@
 body {
     background-image: url('../images/floor-tile.png');
+    font-family: Arial, 'Helvetica Neue',Helvetica, sans-serif;
     
 }
 .container {
@@ -8,6 +9,7 @@ body {
 }
 
 header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     position: fixed;
     top: 0px;
     left: 0px;
@@ -40,7 +42,7 @@ a:link, a:visited, a:hover, a:active {
     color: rgb(255, 255, 255);
     padding: 10px;
     margin: 20px;
-    width: 175px;  
+    width: 208px;  
     position: relative;
     left: 210px;
     top: 23px;
@@ -71,6 +73,6 @@ footer {
     text-align: center;
 }
 #footer-font {
-    color: white;
+    color: #dddddd;
     padding-bottom: 10px;
 }
